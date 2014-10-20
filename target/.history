@@ -1,0 +1,6 @@
+run
+sbt run
+run
+sbt run
+stop
+exit
